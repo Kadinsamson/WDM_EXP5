@@ -23,7 +23,7 @@ The Boolean model in Information Retrieval (IR) is a fundamental model used for 
 
 ### Program:
 
-
+```
 import numpy as np
 import pandas as pd
 
@@ -108,7 +108,7 @@ if __name__ == "__main__":
         print(f"Results for '{query1}': {results}")
     else:
         print("No results found for the query.")
-
+```
 
 ### Output:
 ![WDM5](https://github.com/Kadinsamson/WDM_EXP5/assets/94525955/6adb38da-33eb-4828-9aa6-38111789cef6)
